@@ -200,6 +200,7 @@
     <ClCompile Include="Project.cpp" />
     <ClCompile Include="ProjectDlg.cpp" />
     <ClCompile Include="Test.cpp" />
+    <ClCompile Include="TT.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Project.rc" />
